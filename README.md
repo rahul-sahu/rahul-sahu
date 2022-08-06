@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rahul Sahu
 - 👀 I’m interested in creating beautiful UI and building awesome products.
 - 🌱 I’m currently learning Product management, UI/UX Analysis, User Journey Optimization and cooking chicken biryani
-- 💞️ I’m looking to collaborate on a dropshopping niche. 
+- 💞️ I’m looking to collaborate on building scalable solutions.
 - 📫 How to reach me rahulsahu.blog@gmail.com
 
 <!---
