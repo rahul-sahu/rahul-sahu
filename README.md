@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rahul Sahu
-- 👀 I’m interested in creating beautiful UI and building awesome products.
-- 🌱 I’m currently learning Product management, UI/UX Analysis, User Journey Optimization and cooking chicken biryani
-- 💞️ I’m looking to collaborate on building scalable solutions.
+- 👀 I’m a Product Manager with a Laser Focus Vision for identifying customer problems.
+- 🌱 I like to code in my free time, and build automation solutions that can help maximize efficiency.
+- 💞️ I write articles at https://medium.com/@rahul_sahu
 - 📫 How to reach me rahulsahu.blog@gmail.com
 
 <!---
